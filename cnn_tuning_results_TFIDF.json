@@ -1,0 +1,110 @@
+[
+  {
+    "filters": 64,
+    "kernel_size": 3,
+    "lr": 0.001,
+    "accuracy": 0.4797191917896271
+  },
+  {
+    "filters": 64,
+    "kernel_size": 3,
+    "lr": 0.0001,
+    "accuracy": 0.44647499918937683
+  },
+  {
+    "filters": 64,
+    "kernel_size": 5,
+    "lr": 0.001,
+    "accuracy": 0.5056087970733643
+  },
+  {
+    "filters": 64,
+    "kernel_size": 5,
+    "lr": 0.0001,
+    "accuracy": 0.4650843143463135
+  },
+  {
+    "filters": 64,
+    "kernel_size": 7,
+    "lr": 0.001,
+    "accuracy": 0.5068717002868652
+  },
+  {
+    "filters": 64,
+    "kernel_size": 7,
+    "lr": 0.0001,
+    "accuracy": 0.48480796813964844
+  },
+  {
+    "filters": 128,
+    "kernel_size": 3,
+    "lr": 0.001,
+    "accuracy": 0.4744075536727905
+  },
+  {
+    "filters": 128,
+    "kernel_size": 3,
+    "lr": 0.0001,
+    "accuracy": 0.5022286772727966
+  },
+  {
+    "filters": 128,
+    "kernel_size": 5,
+    "lr": 0.001,
+    "accuracy": 0.47347894310951233
+  },
+  {
+    "filters": 128,
+    "kernel_size": 5,
+    "lr": 0.0001,
+    "accuracy": 0.4797191917896271
+  },
+  {
+    "filters": 128,
+    "kernel_size": 7,
+    "lr": 0.001,
+    "accuracy": 0.4845479428768158
+  },
+  {
+    "filters": 128,
+    "kernel_size": 7,
+    "lr": 0.0001,
+    "accuracy": 0.4691701829433441
+  },
+  {
+    "filters": 256,
+    "kernel_size": 3,
+    "lr": 0.001,
+    "accuracy": 0.5003343224525452
+  },
+  {
+    "filters": 256,
+    "kernel_size": 3,
+    "lr": 0.0001,
+    "accuracy": 0.4827650189399719
+  },
+  {
+    "filters": 256,
+    "kernel_size": 5,
+    "lr": 0.001,
+    "accuracy": 0.49602556228637695
+  },
+  {
+    "filters": 256,
+    "kernel_size": 5,
+    "lr": 0.0001,
+    "accuracy": 0.4706188142299652
+  },
+  {
+    "filters": 256,
+    "kernel_size": 7,
+    "lr": 0.001,
+    "accuracy": 0.5020800828933716
+  },
+  {
+    "filters": 256,
+    "kernel_size": 7,
+    "lr": 0.0001,
+    "accuracy": 0.4768962264060974
+  }
+]
